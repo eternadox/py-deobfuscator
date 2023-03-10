@@ -1,2 +1,2 @@
-# py-deobfuscator
-Deobfuscates code obfuscated by https://development-tools.net/python-obfuscator/
+# Python Deobfuscator
+Deobfuscates python code that has been obfuscated using https://development-tools.net/python-obfuscator/
